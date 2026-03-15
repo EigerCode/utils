@@ -1,6 +1,6 @@
 module github.com/open-uem/utils
 
-go 1.25.5
+go 1.26.0
 
 require (
 	github.com/danieljoos/wincred v1.2.2
